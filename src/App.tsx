@@ -286,7 +286,7 @@ function App() {
         <section className="process-section" id="process">
           <div className="section-pad process-inner"><div className="process-heading"><p className="eyebrow eyebrow-light">The Kgosigadi way</p><h2>From idea to<br /><em>your</em> living room.</h2><p>Good furniture should feel personal. Our process keeps you close to every important decision.</p></div><div className="steps">
             <div className="step"><span className="step-number">01</span><h3>Choose your design</h3><p>Select your size, layout, fabric and colour palette. We’ll help you make the right call.</p><Check size={18} /></div>
-            <div className="step"><span className="step-number">02</span><h3>Place your order</h3><p>Secure your piece with a 60% upfront deposit, or ask us about our flexible 6–11 month layby terms.</p><Check size={18} /></div>
+            <div className="step"><span className="step-number">02</span><h3>Place your order</h3><p>Lay-by is available: orders over R10,000 can be paid over 6 months, and orders under R10,000 over 3 months.</p><Check size={18} /></div>
             <div className="step"><span className="step-number">03</span><h3>We make & deliver</h3><p>Most orders are ready in 10–15 days, with regional delivery across the Northern Cape, North West and Bloemfontein.</p><Check size={18} /></div>
           </div></div>
         </section>
